@@ -31,7 +31,7 @@
   
   - 💬 Ask me about **Game Development, Gameplay programming, Multiplayer, Game Design Ideas**
   
-  - 📫 View my personal works <a href="https://github.com/ashby-issac?tab=repositories" target="blank">Projects/Prototypes</a>
+  - 📫 View my personal works <a href="https://github.com/ashby-issac?tab=repositories" target="_blank">Projects/Prototypes</a>
   
   - 📫 How to reach me **ashbyissac8@gmail.com**
   
