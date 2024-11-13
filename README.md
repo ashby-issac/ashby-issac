@@ -24,7 +24,6 @@
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 
 <div>
-  <img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif">
   <p>
     
   - 🌱 I’m currently learning **multiplayer game development**
